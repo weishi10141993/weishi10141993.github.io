@@ -1,26 +1,8 @@
-## My CV
+## Know more about me?
+Check out my [CV](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/cv.pdf).
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-```
-![Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg)
+### My gallery
+![Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg) at Qi's home city Shaoxing.
 
 ### Contact Info
 CERN Build. 32-A05
