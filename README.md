@@ -22,11 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg)
 ```
-
-Wanna build your own page? [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg)
 
 ### Contact Info
 CERN Build. 32-A05
@@ -36,3 +33,5 @@ E-mail: weishi@rice.edu
 
 Mobile: +33 689534550(France)
         +41 754112219(Geneva)
+
+Wanna build your own page? [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
