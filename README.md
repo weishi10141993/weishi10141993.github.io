@@ -2,7 +2,7 @@
 Check out my [CV](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/cv.pdf).
 
 ### My gallery
-Me and my girlfriend Qiat Qi's home city Shaoxing.
+Me and my girlfriend Qi at Qi's home city Shaoxing.
 
 ![Wei and Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg) 
 
