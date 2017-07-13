@@ -28,10 +28,6 @@ Syntax highlighted code block
 
 Wanna build your own page? [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weishi10141993/weishi10141993.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Contact Info
 CERN Build. 32-A05
 1211 Geneva 23
