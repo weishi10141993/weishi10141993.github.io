@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg)
+[Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg)
 ```
 
 Wanna build your own page? [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
