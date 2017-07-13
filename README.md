@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+## My CV
 
-You can use the [editor on GitHub](https://github.com/weishi10141993/weishi10141993.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -23,7 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg)
+![Me and my girlfriend Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg)
 
 ### Contact Info
 CERN Build. 32-A05
