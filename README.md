@@ -35,6 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact Info
 CERN Build. 32-A05
 1211 Geneva 23
+
 E-mail: weishi@rice.edu
+
 Mobile: +33 689534550(France)
         +41 754112219(Geneva)
