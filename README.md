@@ -13,6 +13,5 @@ CERN Build. 32-A05
 E-mail: weishi@rice.edu
 
 Mobile: +33 689534550(France)
-        +41 754112219(Geneva)
 
 Wanna build your own page? [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
