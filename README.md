@@ -7,7 +7,7 @@ Me and my girlfriend Qi at Qi's home city Shaoxing.
 ![Wei and Qi](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Wei_Qi.jpg) 
 
 ### Contact Info
-CERN Build. 32-4A05
+CERN Build. 32, 4-A05
 1211 Geneva 23
 
 E-mail: weishi@rice.edu
