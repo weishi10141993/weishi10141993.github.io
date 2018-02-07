@@ -1,5 +1,6 @@
 ## Know more about me?
 Check out my [CV](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/cv.pdf).
+This year, I have to do many [shifts](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/Shiftlist.pdf) for the CMS experiment.
 
 ### My gallery
 Me and my girlfriend Qi at Qi's home city Shaoxing.
