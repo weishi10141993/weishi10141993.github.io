@@ -1,6 +1,7 @@
 ## Know more about me?
 Check out my [CV](https://github.com/weishi10141993/weishi10141993.github.io/blob/master/cv.pdf).
-This year, I have to do many [shifts](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/shiftlist) for the CMS experiment.
+Q: The research status for graduate student in experimental HEP? 
+A: 99% time is spent on asking experts...
 
 ### Contact Info
 CERN Build. 32, 4-A05
