@@ -1,8 +1,11 @@
 ## CMS
-A large collaboration like CMS makes it really hard for new guys to learn things quickly. When I got started into this business, I spent almost all my time asking around experts around the world. 
+Large collaborations like CMS make it really hard for new guys to learn things quickly. Since I got started into this business, I spend a lot of time asking experts around the world on a daily basis. But I do ran into many good references in the past that are very illustrative and good for learning in a heruistic way.
+
 For the CMS software and trigger system, there is a good [talk](https://indico.cern.ch/event/803880/contributions/3343511/attachments/1823045/2982756/cmsHLTRecoV6.pdf).
 
-High pT (showering) muons: [talk](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
+A good study of very high energy (showering) muons at CMS: [talk](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
+
+A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Discovery and the Look Elsewhere Effect](http://philsci-archive.pitt.edu/10791/4/%28PhilSci_online_first_version_26.06.2014%29Higgs_and_Look_Elsewhere_Effect.pdf).
 
 ## Next Gen. Acc.
 We are at a cross road of particle physics. People are stumbled on whether or not we should build a next gen acc. But the real underlying reason is we can't afford sky-high cost for traditional acc.
