@@ -1,4 +1,4 @@
-## CMS
+## HEP, Astro, Cosmo
 Large collaborations like CMS make it really hard for new guys to learn things quickly. Since I got started into this business, I spend a lot of time asking experts around the world on a daily basis. But I do ran into many good references in the past that are very illustrative and good for learning in a heruistic way.
 
 For the CMS software and trigger system, there is a good [talk](https://indico.cern.ch/event/803880/contributions/3343511/attachments/1823045/2982756/cmsHLTRecoV6.pdf).
@@ -6,6 +6,8 @@ For the CMS software and trigger system, there is a good [talk](https://indico.c
 A good study of very high energy (showering) muons at CMS: [talk](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
 
 A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Discovery and the Look Elsewhere Effect](http://philsci-archive.pitt.edu/10791/4/%28PhilSci_online_first_version_26.06.2014%29Higgs_and_Look_Elsewhere_Effect.pdf).
+
+Classic introduction to the [CMB](http://background.uchicago.edu/index.html) by Wayne Hu.
 
 ## Next Gen. Acc.
 We are at a cross road of particle physics. People are stumbled on whether or not we should build a next gen acc. But the real underlying reason is we can't afford sky-high cost for traditional acc.
@@ -26,7 +28,5 @@ Rice University
 Houston, TX 77005
 
 E-mail: weishi@rice.edu
-
-Mobile: +1 (713)979-8551 (US)
 
 Wanna build your own page? [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
