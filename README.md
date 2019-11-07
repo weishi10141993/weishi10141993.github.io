@@ -9,6 +9,8 @@ A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Disc
 
 Classic introduction to the [CMB](http://background.uchicago.edu/index.html) by Wayne Hu.
 
+A good [summary](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf) of the weak interaction and the CP violation due to the V-A interaction.
+
 ## Next Gen. Acc.
 We are at a cross road of particle physics. People are stumbled on whether or not we should build a next gen acc. But the real underlying reason is we can't afford sky-high cost for traditional acc.
 
