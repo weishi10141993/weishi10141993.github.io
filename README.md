@@ -13,6 +13,8 @@ A good [summary](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff
 
 I've always been interested in the particle mass and its width. Depending on its decay modes, the width/mass shape could be quite different. Only when its far smaller than the detector resolution, they are approximated by gaussian profile. Another interesting phenomenon in HEP is the so-called [OZI rule](https://en.wikipedia.org/wiki/OZI_rule), brought up in the 1960s. Certain decay modes is less frequent/suppressed than expected.
 
+The scintillators at CMS for hadron detections apply a so-called Forster mechanism. More details in this [paper](https://cds.cern.ch/record/2702214/files/PRF-18-003-paper-v10.pdf).
+
 ## Next Gen. Acc.
 We are at a cross road of particle physics. People are stumbled on whether or not we should build a next gen acc. But the real underlying reason is we can't afford sky-high cost for traditional acc.
 
