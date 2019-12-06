@@ -15,7 +15,7 @@ I've always been interested in the particle mass and its width. Depending on its
 
 The scintillators at CMS for hadron detections apply a so-called Forster mechanism. More details in this [paper](https://cds.cern.ch/record/2702214/files/PRF-18-003-paper-v10.pdf).
 
-A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN).
+A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN), where he emphasizes the signal creation process is due to charge induction, not charge collection.
 
 ## Next Gen. Acc.
 We are at a cross road of particle physics. What makes me feel interested are the new technologies people are developing that will go into the next generations of accelerators. CERN proposed the plasma driven technology. Meanwhile, other people are proposing muon colliders (different schemes, proton/electron on target).
