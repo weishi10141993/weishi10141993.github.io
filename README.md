@@ -9,7 +9,7 @@ A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Disc
 
 [Classic introduction to the CMB](http://background.uchicago.edu/index.html) by Wayne Hu.
 
-A good [summary](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf) of the weak interaction and the CP violation due to the V-A interaction.
+A good summary of the [weak interaction and the CP violation due to the V-A interaction](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf).
 
 I've always been interested in the particle mass and its width. Depending on its decay modes, the width/mass shape could be quite different. Only when its far smaller than the detector resolution, they are approximated by gaussian profile. Another interesting phenomenon in HEP is the so-called [OZI rule](https://en.wikipedia.org/wiki/OZI_rule), brought up in the 1960s. Certain decay modes is less frequent/suppressed than expected.
 
