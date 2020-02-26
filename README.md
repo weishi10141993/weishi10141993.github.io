@@ -17,6 +17,8 @@ The scintillators at CMS for hadron detections apply a so-called Forster mechani
 
 A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN), where he emphasizes the signal creation process is due to charge induction, not charge collection.
 
+Good summaries by Robert Cousins on [statistics in HEP](http://www.physics.ucla.edu/~cousins/stats/).
+
 ## Next Gen. Acc.
 We are at a cross road of particle physics. What makes me feel interested are the new technologies people are developing that will go into the next generations of accelerators. CERN proposed the plasma driven technology. Meanwhile, other people are proposing muon colliders (different schemes, proton/electron on target).
 
