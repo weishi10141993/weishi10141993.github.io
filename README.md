@@ -1,8 +1,6 @@
 ## HEP, Astro, Cosmo
 Large collaborations like CMS make it really hard for new guys to learn things quickly. Since I got started into this business, I spend a lot of time asking experts around the world on a daily basis. But I do ran into many good references in the past that are very illustrative and good for learning in a heruistic way.
 
-[CMS software and trigger system](https://indico.cern.ch/event/803880/contributions/3343511/attachments/1823045/2982756/cmsHLTRecoV6.pdf).
-
 [Very high energy (showering) muons at CMS](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
 
 A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Discovery and the Look Elsewhere Effect](http://philsci-archive.pitt.edu/10791/4/%28PhilSci_online_first_version_26.06.2014%29Higgs_and_Look_Elsewhere_Effect.pdf).
@@ -20,6 +18,8 @@ A series of talks on [signals in particle detectors](https://indico.cern.ch/even
 Good summaries by Robert Cousins on [statistics in HEP](http://www.physics.ucla.edu/~cousins/stats/).
 
 A good discussion from the [QM perspective](https://arxiv.org/abs/1901.05232v1) of neutrino oscillations.
+
+Detailed [reference](http://cds.cern.ch/record/1311200/files/TS2006_012.pdf) for vertex finding and fitting at CMS. A short version [paper](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) talks about the Kalman vertex fitting prob for non-Gaussian tracks parameters.
 
 ## Next Gen. Acc.
 We are at a cross road of particle physics. What makes me feel interested are the new technologies people are developing that will go into the next generations of accelerators. CERN proposed the plasma driven technology. Meanwhile, other people are proposing muon colliders (different schemes, proton/electron on target).
