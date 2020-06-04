@@ -19,7 +19,7 @@ Good summaries by Robert Cousins on [statistics in HEP](http://www.physics.ucla.
 
 A good discussion from the [QM perspective](https://arxiv.org/abs/1901.05232v1) of neutrino oscillations.
 
-Detailed [reference](http://cds.cern.ch/record/1311200/files/TS2006_012.pdf) for vertex finding and fitting at CMS. A short version [paper](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) talks about the Kalman vertex fitting prob for non-Gaussian tracks parameters.
+Detailed [reference](http://cds.cern.ch/record/1311200/files/TS2006_012.pdf) for vertex finding and fitting at CMS. Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) and [2](https://iopscience.iop.org/article/10.1088/1742-6596/110/9/092009/pdf)) talks about the Kalman vertex fitting prob for non-Gaussian tracks parameters.
 
 ## Next Gen. Acc.
 We are at a cross road of particle physics. What makes me feel interested are the new technologies people are developing that will go into the next generations of accelerators. CERN proposed the plasma driven technology. Meanwhile, other people are proposing muon colliders (different schemes, proton/electron on target).
