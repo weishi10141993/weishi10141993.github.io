@@ -17,7 +17,7 @@ Good summaries by Robert Cousins on [statistics in HEP](http://www.physics.ucla.
 
 A good discussion from the [QM perspective of neutrino oscillations](https://arxiv.org/abs/1901.05232v1).
 
-Detailed reference for [vertex finding and fitting at CMS](http://cds.cern.ch/record/1311200/files/TS2006_012.pdf). Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) and [2](https://iopscience.iop.org/article/10.1088/1742-6596/110/9/092009/pdf)) talks about the Kalman vertex fitting prob for non-Gaussian tracks parameters.
+Detailed reference for [vertex finding and fitting at CMS](http://cds.cern.ch/record/1311200/files/TS2006_012.pdf). Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) and [2](https://iopscience.iop.org/article/10.1088/1742-6596/110/9/092009/pdf)) talks about the Kalman vertex fitting prob features.
 
 A thorough discription of the challenging [tracking at CMS](https://arxiv.org/pdf/1405.6569.pdf), which also explains why electrons, not like muons, lose energy in a non-Gaussian way by bremsstrahlung and can't use the standard Kalman filter for its tracking.
 
