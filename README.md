@@ -24,7 +24,7 @@ A thorough discription of the challenging [tracking at CMS](https://arxiv.org/pd
 A talk on [very high energy (showering) muons at CMS](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
 
 ## Next Gen. Acc.
-We are at a cross road of particle physics. What makes me feel interested are the new technologies people are developing that will go into the next generations of accelerators. CERN proposed the plasma driven technology. Meanwhile, other people are proposing muon colliders (different schemes, proton/electron on target).
+A series of dedicated talks by Eric Prebys on [accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n).
 
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
