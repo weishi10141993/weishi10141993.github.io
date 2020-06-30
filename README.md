@@ -7,8 +7,6 @@ A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Disc
 
 A good summary of the [weak interaction and the CP violation due to the V-A interaction](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf).
 
-I've always been interested in the particle mass and its width. Depending on its decay modes, the width/mass shape could be quite different. Only when its far smaller than the detector resolution, they are approximated by gaussian profile. Another interesting phenomenon in HEP is the so-called [OZI rule](https://en.wikipedia.org/wiki/OZI_rule), brought up in the 1960s. Certain decay modes is less frequent/suppressed than expected.
-
 The scintillators at CMS for hadron detections apply a so-called [Forster mechanism](https://cds.cern.ch/record/2702214/files/PRF-18-003-paper-v10.pdf).
 
 A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN), where he emphasizes the signal creation process is due to charge induction, not charge collection.
