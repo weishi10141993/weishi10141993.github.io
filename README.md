@@ -24,6 +24,8 @@ A talk on [very high energy (showering) muons at CMS](https://indico.cern.ch/eve
 ## Next Gen. Acc.
 A series of dedicated talks by Eric Prebys on [accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
 
+I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/).
+
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
 
