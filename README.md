@@ -21,6 +21,8 @@ A thorough discription of the challenging [tracking at CMS](https://arxiv.org/pd
 
 A talk on [very high energy (showering) muons at CMS](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
 
+A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
+
 ## Next Gen. Acc.
 A series of dedicated talks by Eric Prebys on [accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
 
