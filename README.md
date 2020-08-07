@@ -11,7 +11,7 @@ The scintillators at CMS for hadron detections apply a so-called [Forster mechan
 
 A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN), where he emphasizes the signal creation process is due to charge induction, not charge collection.
 
-Good summaries by Robert Cousins on [statistics in HEP](http://www.physics.ucla.edu/~cousins/stats/).
+Good summaries of statistics by Robert Cousins on [statistics in HEP](http://www.physics.ucla.edu/~cousins/stats/) and [CDF recommendations](https://www-cdf.fnal.gov/physics/statistics/recommendations/).
 
 A good discussion from the [QM perspective of neutrino oscillations](https://arxiv.org/abs/1901.05232v1).
 
