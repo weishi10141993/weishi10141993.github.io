@@ -12,7 +12,7 @@ A good discussion from the [QM perspective of neutrino oscillations](https://arx
 A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 
 ## Detectors
-Self contained [talks on detector technologies](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) at a summer school. 
+Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
 A talk on [very high energy (showering) muons at CMS](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
 
