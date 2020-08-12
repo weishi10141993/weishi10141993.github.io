@@ -23,7 +23,7 @@ A talk on [very high energy (showering) muons at CMS](https://indico.cern.ch/eve
 
 A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 
-## Next Gen. Acc.
+## Accelerators, Colliders
 A self contained [talk on current synchrotron accelerator technology](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-27) explaining how bend, focus and acceleration of beams are done.
 
 A series of [dedicated talks on accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) by Eric Prebys where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
