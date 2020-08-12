@@ -26,7 +26,7 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 ## Next Gen. Acc.
 A self contained [talk on current synchrotron accelerator technology](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-27) explaining how bend, focus and acceleration of beams are done.
 
-A series of dedicated talks by Eric Prebys on [accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
+A series of [dedicated talks on accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) by Eric Prebys where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
 
 I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). People starts to identify the [community interest](https://indico.cern.ch/event/930508/) starting 2020. The goal is to build a demo in the second half of the decade. 
 
