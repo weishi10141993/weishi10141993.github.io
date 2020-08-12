@@ -26,7 +26,7 @@ A self contained [talk on current synchrotron accelerator technology](https://in
 
 A series of [dedicated talks on accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) by Eric Prebys where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
 
-I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). People starts to identify the [community interest](https://indico.cern.ch/event/930508/) starting 2020. The goal is to build a demo in the second half of the decade. 
+I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). People starts to identify the community interest with a goal to build a demo in the second half of this decade. 
 
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
