@@ -1,6 +1,4 @@
 ## HEP, Astro, Cosmo
-Large collaborations like CMS make it really hard for new guys to learn things quickly. Since I got started into this business, I spend a lot of time asking experts around the world on a daily basis. But I do ran into many good references in the past that are very illustrative and good for learning in a heruistic way.
-
 A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Discovery and the Look Elsewhere Effect](http://philsci-archive.pitt.edu/10791/4/%28PhilSci_online_first_version_26.06.2014%29Higgs_and_Look_Elsewhere_Effect.pdf).
 
 [Classic introduction to the CMB](http://background.uchicago.edu/index.html) by Wayne Hu.
