@@ -14,11 +14,11 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 ## Detectors
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
-A talk on [very high energy (showering) muons at CMS](https://indico.cern.ch/event/827830/contributions/3475196/attachments/1869241/3075133/ApprovalHighpT.pdf).
+The first paper on [high energy muon at CMS](https://iopscience.iop.org/article/10.1088/1748-0221/15/02/P02027).
 
 A thorough discription of the challenging [tracking at CMS](https://arxiv.org/pdf/1405.6569.pdf), which also explains why electrons, not like muons, lose energy in a non-Gaussian way by bremsstrahlung and can't use the standard Kalman filter for its tracking.
 
-Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) and [2](https://iopscience.iop.org/article/10.1088/1742-6596/110/9/092009/pdf)) talks about the Kalman vertex fitting prob features.
+Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) and [2](https://iopscience.iop.org/article/10.1088/1742-6596/110/9/092009/pdf)) talks about the Kalman vertex fitting prob features. A concise note on the Kalman filter method in general.
 
 The scintillators at CMS for hadron detections apply a so-called [Forster mechanism](https://cds.cern.ch/record/2702214/files/PRF-18-003-paper-v10.pdf).
 
