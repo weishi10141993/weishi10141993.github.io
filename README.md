@@ -1,7 +1,7 @@
 ## HEP, Astro, Cosmo
 A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Discovery and the Look Elsewhere Effect](http://philsci-archive.pitt.edu/10791/4/%28PhilSci_online_first_version_26.06.2014%29Higgs_and_Look_Elsewhere_Effect.pdf).
 
-[Classic introduction to the CMB](http://background.uchicago.edu/index.html) by Wayne Hu.
+[Classic CMB Tutorials](http://background.uchicago.edu/index.html) by Wayne Hu and a good Scientific American [article](http://background.uchicago.edu/~whu/Papers/HuWhi04.pdf) on it.
 
 A good summary of the [weak interaction and the CP violation due to the V-A interaction](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf).
 
