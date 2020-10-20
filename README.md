@@ -14,6 +14,8 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 ## Detectors
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
+A good lecture on HEP [semiconductor] detectors(https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack and why they need to work at low temperatures.
+
 The first paper on [high energy muon at CMS](https://iopscience.iop.org/article/10.1088/1748-0221/15/02/P02027).
 
 A thorough discription of the challenging [tracking at CMS](https://arxiv.org/pdf/1405.6569.pdf), which also explains why electrons, not like muons, lose energy in a non-Gaussian way by bremsstrahlung and can't use the standard Kalman filter for its tracking.
