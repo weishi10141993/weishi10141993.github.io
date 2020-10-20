@@ -14,7 +14,7 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 ## Detectors
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
-A good lecture on HEP [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack and why they need to work at low temperatures.
+A good lecture on HEP [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack explaining why we need to dope semiconductors to make them work at room temperature.
 
 The first paper on [high energy muon at CMS](https://iopscience.iop.org/article/10.1088/1748-0221/15/02/P02027).
 
