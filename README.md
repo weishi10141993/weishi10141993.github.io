@@ -27,6 +27,8 @@ The scintillators at CMS for hadron detections apply a so-called [Forster mechan
 A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN), where he emphasizes the signal creation process is due to charge induction, not charge collection.
 
 ## Accelerators, Colliders
+A good LHC user [guide](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#7-lecture-7).
+
 A self contained [talk on current synchrotron accelerator technology](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-27) explaining how bend, focus and acceleration of beams are done.
 
 A series of [dedicated talks on accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) by Eric Prebys where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
