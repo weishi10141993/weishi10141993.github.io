@@ -35,6 +35,9 @@ A series of [dedicated talks on accelerator technologies](https://video.ucdavis.
 
 I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). People starts to identify the community interest with a goal to build a demo in the second half of this decade. 
 
+## Statistics
+A good talk on GoF test(https://indico.cern.ch/event/972293/).
+
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
 
