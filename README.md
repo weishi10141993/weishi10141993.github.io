@@ -5,8 +5,6 @@ A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Disc
 
 A good summary of the [weak interaction and the CP violation due to the V-A interaction](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf).
 
-Good summaries of statistics by Robert Cousins on [statistics in HEP](http://www.physics.ucla.edu/~cousins/stats/) and [CDF recommendations](https://www-cdf.fnal.gov/physics/statistics/recommendations/).
-
 A good discussion from the [QM perspective of neutrino oscillations](https://arxiv.org/abs/1901.05232v1).
 
 A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
@@ -37,6 +35,8 @@ I am very interested in new accelerator technologies, for example the [muon coll
 
 ## Statistics
 A good talk on [GoF test](https://indico.cern.ch/event/972293/).
+
+Good summaries of statistics by Robert Cousins on [statistics in HEP](http://www.physics.ucla.edu/~cousins/stats/) and [CDF recommendations](https://www-cdf.fnal.gov/physics/statistics/recommendations/).
 
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
