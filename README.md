@@ -11,7 +11,7 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 
 [Supermassive black hole at the center of our galaxy](https://cds.cern.ch/record/2746536) by Andrea Ghez.
 
-## Detectors
+## Detectors, CMS
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
 A good lecture on HEP [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack explaining why we need to dope semiconductors to make them work at room temperature. Other talks such as [Bethe-Bloch ionization](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#2-lecture-2) in the same page are good in general.
@@ -25,6 +25,8 @@ Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) 
 The scintillators at CMS for hadron detections apply a so-called [Forster mechanism](https://cds.cern.ch/record/2702214/files/PRF-18-003-paper-v10.pdf).
 
 A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN), where he emphasizes the signal creation process is due to charge induction, not charge collection.
+
+Study of [TeV neutrino at LHC](https://doi.org/10.1088/1361-6471/ab3f7c).
 
 ## Accelerators, Colliders
 A good LHC user [guide](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#7-lecture-7).
