@@ -42,6 +42,8 @@ A good talk on [GoF test](https://indico.cern.ch/event/972293/).
 
 Good summaries of statistics by Robert Cousins on [statistics in HEP](http://www.physics.ucla.edu/~cousins/stats/) and [CDF recommendations](https://www-cdf.fnal.gov/physics/statistics/recommendations/).
 
+[Kernel estimation](https://doi.org/10.1016/S0010-4655(00)00243-5) for unbinned dataset that can be used to get p.d.f. of a small dataset.
+
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
 
