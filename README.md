@@ -11,6 +11,8 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
 
 [Supermassive black hole at the center of our galaxy](https://cds.cern.ch/record/2746536) by Andrea Ghez.
 
+A good talk on [NOvA](https://conference.ippp.dur.ac.uk/event/967/contributions/5071/attachments/4128/4850/NOvA_xsecResults.pdf) long baseline neutrino experiment.
+
 ## Detectors, CMS
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
