@@ -22,6 +22,8 @@ The first paper on [high energy muon at CMS](https://iopscience.iop.org/article/
 
 A thorough discription of the challenging [tracking at CMS](https://arxiv.org/pdf/1405.6569.pdf), which also explains why electrons, not like muons, lose energy in a non-Gaussian way by bremsstrahlung and can't use the standard Kalman filter for its tracking.
 
+Good talk on CMS [pixel detector](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#34-lecture-5-the-phase-1-pixel).
+
 Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) and [2](https://iopscience.iop.org/article/10.1088/1742-6596/110/9/092009/pdf)) talks about the Kalman vertex fitting prob features. A concise [note on the Kalman filter in general](https://ieeexplore.ieee.org/document/6279585).
 
 The scintillators at CMS for hadron detections apply a so-called [Forster mechanism](https://cds.cern.ch/record/2702214/files/PRF-18-003-paper-v10.pdf).
