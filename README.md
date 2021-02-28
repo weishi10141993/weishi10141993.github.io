@@ -7,7 +7,7 @@ A good summary of the [weak interaction and the CP violation due to the V-A inte
 
 A good discussion from the [QM perspective of neutrino oscillations](https://arxiv.org/abs/1901.05232v1).
 
-A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results.
+A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results. Good talk on [antihydrogen](https://indico.cern.ch/event/1007548/) research at CERN.
 
 [Supermassive black hole at the center of our galaxy](https://cds.cern.ch/record/2746536) by Andrea Ghez.
 
