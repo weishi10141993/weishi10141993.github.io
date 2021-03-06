@@ -32,6 +32,8 @@ A series of talks on [signals in particle detectors](https://indico.cern.ch/even
 
 Study of TeV neutrino at LHC ([1](https://doi.org/10.1088/1361-6471/ab3f7c), [2](https://doi.org/10.1088/1361-6471/aba7ad)).
 
+Good overview of [CSC electronics](https://indico.cern.ch/event/750612) at CMS.
+
 ## Accelerators, Colliders
 A good LHC user [guide](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#7-lecture-7).
 
