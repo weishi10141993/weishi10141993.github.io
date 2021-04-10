@@ -11,7 +11,7 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results. Good talk
 
 [Supermassive black hole at the center of our galaxy](https://cds.cern.ch/record/2746536) by Andrea Ghez.
 
-A good talk on [NOvA](https://conference.ippp.dur.ac.uk/event/967/contributions/5071/attachments/4128/4850/NOvA_xsecResults.pdf) long baseline neutrino experiment and a talk focusing on neutrino detection techniques.
+A good talk on [NOvA](https://conference.ippp.dur.ac.uk/event/967/contributions/5071/attachments/4128/4850/NOvA_xsecResults.pdf) long baseline neutrino experiment and a talk focusing on [neutrino detection techniques](https://indico.cern.ch/event/1019325/) with Cherenkov or scintillation lights.
 
 The [first result from muon g-2](https://www.youtube.com/watch?v=81PfYnpuOPA) where a 4.2 sigma tension with the SM prediction is found.
 
