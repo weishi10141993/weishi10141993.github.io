@@ -18,7 +18,7 @@ The [first result from muon g-2](https://www.youtube.com/watch?v=81PfYnpuOPA) wh
 ## Detectors, CMS
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
-A good lecture on HEP [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack explaining why we need to dope semiconductors to make them work at room temperature. Other talks such as [Bethe-Bloch ionization](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#2-lecture-2) in the same page are good in general.
+A good lecture on [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack explaining why we need to dope semiconductors to make them work at room temperature. Other talks like [Bethe-Bloch ionization](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#2-lecture-2) and [L1 trigger](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#50-spring-lecture-21-the-new-l) in the same page are good in general.
 
 The first paper on [high energy muon at CMS](https://iopscience.iop.org/article/10.1088/1748-0221/15/02/P02027).
 
