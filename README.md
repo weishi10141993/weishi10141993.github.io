@@ -18,13 +18,11 @@ The [first result from muon g-2](https://www.youtube.com/watch?v=81PfYnpuOPA) wh
 ## Detectors, CMS
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
-A good lecture on [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack explaining why we need to dope semiconductors to make them work at room temperature. Other talks like [Bethe-Bloch ionization](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#2-lecture-2) and [L1 trigger](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#50-spring-lecture-21-the-new-l) in the same page are good in general.
+A good lecture on [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack explaining why we need to dope semiconductors to make them work at room temperature. Other talks like [Bethe-Bloch ionization](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#2-lecture-2), CMS [pixel detector](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#34-lecture-5-the-phase-1-pixel), and [L1 trigger](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#50-spring-lecture-21-the-new-l) in the same page are good in general.
 
 The first paper on [high energy muon at CMS](https://iopscience.iop.org/article/10.1088/1748-0221/15/02/P02027).
 
 A thorough discription of the challenging [tracking at CMS](https://arxiv.org/pdf/1405.6569.pdf), which also explains why electrons, not like muons, lose energy in a non-Gaussian way by bremsstrahlung and can't use the standard Kalman filter for its tracking.
-
-Good talk on CMS [pixel detector](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#34-lecture-5-the-phase-1-pixel).
 
 Two short papers ([1](https://cds.cern.ch/record/927395/files/NOTE2006_032.pdf) and [2](https://iopscience.iop.org/article/10.1088/1742-6596/110/9/092009/pdf)) talks about the Kalman vertex fitting prob features. A concise [note on the Kalman filter in general](https://ieeexplore.ieee.org/document/6279585).
 
