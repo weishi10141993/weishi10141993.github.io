@@ -43,7 +43,7 @@ A series of [dedicated talks on accelerator technologies](https://video.ucdavis.
 
 I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). People starts to identify the community interest with a goal to build a demo in the second half of this decade. 
 
-Direct dark matter search experiment like [Xenon1T](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072004) uses the [Migdal effect](https://science.purdue.edu/xenon1t/?tag=migdal-effect).
+Direct dark matter search experiment like [Xenon1T](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072004) uses the [Migdal effect](https://science.purdue.edu/xenon1t/?tag=migdal-effect) to get higher sensitivity to electronic recoils.
 
 ## Statistics
 A good talk on [GoF test](https://indico.cern.ch/event/972293/).
