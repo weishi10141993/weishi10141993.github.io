@@ -52,6 +52,8 @@ Good summaries of statistics by Robert Cousins on [statistics in HEP](http://www
 
 [Kernel estimation](https://doi.org/10.1016/S0010-4655(00)00243-5) for unbinned dataset that can be used to get p.d.f. of a small dataset.
 
+A good [explanation](https://www.pp.rhul.ac.uk/~cowan/stat/medsig/medsigNote.pdf) of why we often use s/sqrt(b) (s<<b) for signal discovery significance.
+
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
 
