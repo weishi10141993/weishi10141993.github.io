@@ -45,6 +45,8 @@ I am very interested in new accelerator technologies, for example the [muon coll
 
 Direct dark matter search experiment like [Xenon1T](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072004) uses the [Migdal effect](https://science.purdue.edu/xenon1t/?tag=migdal-effect) to get higher sensitivity to electronic recoils.
 
+Physics program at [FCC-ee](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#55-the-fcc-ee-project) by Markus Klute talking about Higgs precision measurement and BSM searches.
+
 ## Statistics
 A good talk on [GoF test](https://indico.cern.ch/event/972293/).
 
