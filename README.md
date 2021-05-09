@@ -43,7 +43,7 @@ A series of [dedicated talks on accelerator technologies](https://video.ucdavis.
 
 I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). People starts to identify the community interest with a goal to build a demo in the second half of this decade. 
 
-Direct dark matter search experiment like [Xenon1T](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072004) uses the [Migdal effect](https://science.purdue.edu/xenon1t/?tag=migdal-effect) to get higher sensitivity to electronic recoils. Good [talks](https://vod.video.cornell.edu/media/LEPP+Journal+Club+-+Evan+Shockley/1_f9hqr34f).
+Direct dark matter search experiment like [Xenon1T](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072004) uses the [Migdal effect](https://science.purdue.edu/xenon1t/?tag=migdal-effect) to get higher sensitivity to electronic recoils. Good [talks](https://vod.video.cornell.edu/media/LEPP+Journal+Club+-+Evan+Shockley/1_f9hqr34f). A good [summary](https://nigroup.ucsd.edu/research-projects/technology/) of why Xenon is used as target and why it is underground.
 
 Physics program at [FCC-ee](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#55-the-fcc-ee-project) by Markus Klute talking about Higgs precision measurement and BSM searches.
 
