@@ -13,7 +13,7 @@ A talk on [neutron EDM](https://indico.cern.ch/event/922791/) results. Good talk
 
 Some good talks on NOvA ([1](https://conference.ippp.dur.ac.uk/event/967/contributions/5071/attachments/4128/4850/NOvA_xsecResults.pdf),[2](https://drive.google.com/file/d/1AME0epl49VF2vc_kPiMlBN5F8JXPSjWo/edit)) long baseline neutrino experiment and a talk focusing on [neutrino detection techniques](https://indico.cern.ch/event/1019325/) with Cherenkov or scintillation lights.
 
-The [first result from muon g-2](https://www.youtube.com/watch?v=81PfYnpuOPA) where a 4.2 sigma tension with the SM prediction is found.
+The [first result from muon g-2](https://www.youtube.com/watch?v=81PfYnpuOPA) where a 4.2 sigma tension with the SM prediction is found. A nice [seminar](https://drive.google.com/file/d/1U1cF7T7VSjJJIhpgHQoulzq4UW9m5l5K/edit) explaining many background physics.
 
 ## Detectors, CMS
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
