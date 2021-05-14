@@ -30,7 +30,7 @@ The scintillators at CMS for hadron detections apply a so-called [Forster mechan
 
 A series of talks on [signals in particle detectors](https://indico.cern.ch/event/843083/) by Werner Riegler (CERN), where he emphasizes the signal creation process is due to charge induction, not charge collection.
 
-Study of TeV neutrino at LHC ([1](https://doi.org/10.1088/1361-6471/ab3f7c), [2](https://doi.org/10.1088/1361-6471/aba7ad)).
+Study of TeV neutrino at LHC ([1](https://doi.org/10.1088/1361-6471/ab3f7c), [2](https://doi.org/10.1088/1361-6471/aba7ad), [3, pilot run](https://arxiv.org/abs/2105.06197)).
 
 Good overview of [CSC electronics](https://indico.cern.ch/event/750612) at CMS.
 
