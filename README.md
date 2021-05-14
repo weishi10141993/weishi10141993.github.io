@@ -1,9 +1,9 @@
-## HEP, Astro, Cosmo
+## Particles, Astro, Cosmo
 A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Discovery and the Look Elsewhere Effect](http://philsci-archive.pitt.edu/10791/4/%28PhilSci_online_first_version_26.06.2014%29Higgs_and_Look_Elsewhere_Effect.pdf).
 
 [Classic CMB Tutorials](http://background.uchicago.edu/index.html) by Wayne Hu and a good Scientific American [article](http://background.uchicago.edu/~whu/Papers/HuWhi04.pdf) on it.
 
-A good summary of the [weak interaction and the CP violation due to the V-A interaction](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf).
+A good summary on the [parity violation in weak interactions](https://warwick.ac.uk/fac/sci/physics/staff/academic/boyd/stuff/neutrinolectures/weak.pdf).
 
 A good discussion from the [QM perspective of neutrino oscillations](https://arxiv.org/abs/1901.05232v1).
 
@@ -15,7 +15,7 @@ Some good talks on NOvA ([1](https://conference.ippp.dur.ac.uk/event/967/contrib
 
 The [first result from muon g-2](https://www.youtube.com/watch?v=81PfYnpuOPA) where a 4.2 sigma tension with the SM prediction is found. A nice [seminar](https://drive.google.com/file/d/1U1cF7T7VSjJJIhpgHQoulzq4UW9m5l5K/edit) explaining many background physics.
 
-## Detectors, CMS
+## Detectors
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
 A good lecture on [semiconductor detectors](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#day-2020-10-19) by Roger Rusack explaining why we need to dope semiconductors to make them work at room temperature. Other talks like [Bethe-Bloch ionization](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#2-lecture-2), CMS [pixel detector](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#34-lecture-5-the-phase-1-pixel), and [L1 trigger](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#50-spring-lecture-21-the-new-l) (where Michail mentioned structures in eye diagram, how it's related to bit error rate, and an interesting fiberglass effect on impedance for high frequency signals in PCB) in the same page are good in general.
