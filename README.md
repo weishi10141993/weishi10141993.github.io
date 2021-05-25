@@ -41,7 +41,7 @@ A self contained [talk on current synchrotron accelerator technology](https://in
 
 A series of [dedicated talks on accelerator technologies](https://video.ucdavis.edu/playlist/details/1_ijw40h9n) by Eric Prebys where he covered transverse and longitudinal motion of the beam, the FODO cells (quadrupole magnets) and the dipole magnets, the concept of rigidity, multi-staged acceleration and synchrotron radiations. 
 
-I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). People starts to identify the community interest with a goal to build a demo in the second half of this decade. 
+I am very interested in new accelerator technologies, for example the [muon collider](http://muoncollider.web.cern.ch/). Here is good talk on [neutrino-induced hazard](https://indico.fnal.gov/event/48995/#3-neutrino-induced-hazard-and) by Nikolai where he emphasized neutrinos cause little biological damage, but its interaction with matter which creates charged particles that deposit energy in human tissues.
 
 Direct dark matter search experiment like [Xenon1T](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072004) uses the [Migdal effect](https://science.purdue.edu/xenon1t/?tag=migdal-effect) to get higher sensitivity to electronic recoils. Good [talks](https://vod.video.cornell.edu/media/LEPP+Journal+Club+-+Evan+Shockley/1_f9hqr34f). A good [summary](https://nigroup.ucsd.edu/research-projects/technology/) of why Xenon is used as target and why it is underground.
 
