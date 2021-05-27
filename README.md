@@ -1,5 +1,5 @@
 ## About me
-[I](https://inspirehep.net/authors/1423508) did my PhD at Rice U working on the CMS experiment at CERN. Now I'm a postdoc at Stony Brook U working on neutrino experiments T2K and DUNE.
+[I](https://inspirehep.net/authors/1423508) did my [PhD thesis](https://cds.cern.ch/record/2766136) at Rice U working on the CMS experiment at CERN. Now I'm a postdoc at Stony Brook U working on neutrino experiments, T2K and DUNE.
 
 E-mail: weishi@rice.edu
 
