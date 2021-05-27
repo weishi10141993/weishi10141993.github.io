@@ -68,7 +68,7 @@ Besides national defense industry (which is often not "friendly" to internationa
 ## Linux and Scientific Computing
 
 ## Science Policy & Communication
-Many times people ask, why science, why even spend money in building experiments? This question is answered very well by many famous scientists, like Vannevar Bush in his [Science, The Endless Frontier] report (1945), JFK's [We choose to go to the Moon](https://er.jsc.nasa.gov/seh/ricetalk.htm) speech (1962), and R. R. Wilson's [justification](https://history.fnal.gov/historical/people/wilson_testimony.html) for the value of building Fermilab's first accelerator (1969).
+Many times people ask, why science, why even spend money in building experiments? This question is answered very well by many famous scientists, like Vannevar Bush in his [Science, The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) report (1945), JFK's [We choose to go to the Moon](https://er.jsc.nasa.gov/seh/ricetalk.htm) speech (1962), and R. R. Wilson's [justification](https://history.fnal.gov/historical/people/wilson_testimony.html) for the value of building Fermilab's first accelerator (1969).
 
 
 Wanna build your own page? [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
