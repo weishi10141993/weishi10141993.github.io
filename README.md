@@ -5,12 +5,12 @@ E-mail: weishi@rice.edu
 
 Address: 6100 Main St., HBH 230, Rice University, Houston, TX 77005
 
-## Science Policy & Communication
+## Science Communication, Policy, & Impact
 I value the importance of science communication to general public. I really like the [StarTalk](https://www.youtube.com/c/StarTalk) podcast hosted by Neil deGrasse Tyson. 
 
 Many times people ask, why science, why even spend money in building experiments? This question is answered very well by many famous scientists, like Vannevar Bush in his [Science, The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) report (1945), JFK's [We choose to go to the Moon](https://er.jsc.nasa.gov/seh/ricetalk.htm) speech (1962), and R. R. Wilson's [justification](https://history.fnal.gov/historical/people/wilson_testimony.html) for the value of building Fermilab's first accelerator (1969).
 
-## Particles, Astro, Cosmo
+## Particles, Astro, & Cosmo
 A very detailed explanation (I liked) of the LEE effect is Richard's [Higgs Discovery and the Look Elsewhere Effect](http://philsci-archive.pitt.edu/10791/4/%28PhilSci_online_first_version_26.06.2014%29Higgs_and_Look_Elsewhere_Effect.pdf).
 
 [Classic CMB Tutorials](http://background.uchicago.edu/index.html) by Wayne Hu and a good Scientific American [article](http://background.uchicago.edu/~whu/Papers/HuWhi04.pdf) on it.
@@ -46,7 +46,7 @@ Study of TeV neutrino interactions at LHC ([1](https://doi.org/10.1088/1361-6471
 
 Good overview of [CSC electronics](https://indico.cern.ch/event/750612) at CMS.
 
-## Accelerators, Colliders
+## Accelerators & Colliders
 A good LHC user [guide](https://indico.cern.ch/event/941945/timetable/?view=standard_inline_minutes#7-lecture-7).
 
 A self contained [talk on current synchrotron accelerator technology](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-27) explaining how bend, focus and acceleration of beams are done.
@@ -71,7 +71,7 @@ A good [explanation](https://www.pp.rhul.ac.uk/~cowan/stat/medsig/medsigNote.pdf
 ## Medical Physics
 Besides national defense industry (which is often not "friendly" to international job applicants), medical physics is probably the most relevant field where particle/nuclear/accelerator physics are used. These include, but not limited to, proton/heavy ion therapy for cancer, PET, CT, MRI, etc.
 
-## Linux and Scientific Computing
+## Linux & Scientific Computing
 
 
 
