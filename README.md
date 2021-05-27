@@ -1,4 +1,5 @@
-## Contact Info
+## About me
+I did my PhD at Rice working on the CMS experiment. Now I'm a postdoc at Stony Brook working on neutrino experiments T2K and DUNE.
 
 E-mail: weishi@rice.edu
 
