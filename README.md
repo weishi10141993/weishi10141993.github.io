@@ -8,7 +8,7 @@ Address: 6100 Main St., HBH 230, Rice University, Houston, TX 77005
 ## Science Communication, Policy, & Impact
 I value the importance of science communication to general public. I really like the [StarTalk](https://www.youtube.com/c/StarTalk) podcast hosted by Neil deGrasse Tyson. 
 
-Many times people ask, why science, why even spend money in building experiments? This question is answered very well by many famous people including scientists, for example, Vannevar Bush in his [Science - The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) report (1945), JFK's [We choose to go to the Moon](https://er.jsc.nasa.gov/seh/ricetalk.htm) speech (1962), and R. R. Wilson's [justification](https://history.fnal.gov/historical/people/wilson_testimony.html) for the value of building Fermilab's first accelerator (1969).
+Many times people ask, why science, why even spend money in building experiments? This question is answered very well by many famous people (including scientists). For example, Vannevar Bush in his [Science - The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) report (1945), JFK's [We choose to go to the Moon](https://er.jsc.nasa.gov/seh/ricetalk.htm) speech (1962), and R. R. Wilson's [justification](https://history.fnal.gov/historical/people/wilson_testimony.html) for the value of building Fermilab's first accelerator (1969), and Ernst Stuhlinger's [letter](https://lettersofnote.com/2012/08/06/why-explore-space) (1970). 
 
 It's also worth noting the impact of a science center like [CERN](https://home.cern/sites/home.web.cern.ch/files/2018-07/CERN-Brochure-2016-005-Eng.pdf).
 
