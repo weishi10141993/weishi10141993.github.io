@@ -1,5 +1,5 @@
 ## About me
-[I](https://inspirehep.net/authors/1423508) did my [PhD thesis](https://cds.cern.ch/record/2766136) at Rice U working on the CMS experiment at CERN. Now I'm a postdoc at Stony Brook U working on neutrino experiments, T2K and DUNE.
+[I](https://inspirehep.net/authors/1423508) am an experimental particle physicist. I did my [PhD thesis](https://cds.cern.ch/record/2766136) at [Rice U](https://en.wikipedia.org/wiki/Rice_University) working on the [CMS](https://en.wikipedia.org/wiki/Compact_Muon_Solenoid) experiment at [CERN](https://en.wikipedia.org/wiki/CERN). Now I'm a postdoc at [Stony Brook U](https://en.wikipedia.org/wiki/Stony_Brook_University) working on [T2K](https://en.wikipedia.org/wiki/T2K_experiment) and [DUNE](https://en.wikipedia.org/wiki/Deep_Underground_Neutrino_Experiment) experiments. I love playing basketball, tennis, and snowboarding!
 
 E-mail: weishi@rice.edu
 
