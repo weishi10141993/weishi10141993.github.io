@@ -3,8 +3,6 @@
 
 E-mail: wei.shi.1@stonybrook.edu
 
-Address: 6100 Main St., HBH 230, Rice University, Houston, TX 77005
-
 ## Science Communication, Policy, & Impact
 I value the importance of science communication to general public. I really like the [StarTalk](https://www.youtube.com/c/StarTalk) podcast hosted by Neil deGrasse Tyson. 
 
