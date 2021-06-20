@@ -27,6 +27,8 @@ Some good talks on NOvA ([1](https://conference.ippp.dur.ac.uk/event/967/contrib
 
 The [first result from muon g-2](https://www.youtube.com/watch?v=81PfYnpuOPA) where a 4.2 sigma tension with the SM prediction is found. A nice [seminar](https://drive.google.com/file/d/1U1cF7T7VSjJJIhpgHQoulzq4UW9m5l5K/edit) explaining many background physics.
 
+A very good format of giving online [lectures](https://indico.fnal.gov/event/48900/timetable/?view=standard_inline_minutes#3-lecture-intro-to-neutrino-in) by Cheryl on neutrino interaction physics.
+
 ## Detectors
 Self contained talks on detector technologies ([calorimatery](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-28) and [tracking](https://indico.desy.de/indico/event/26403/other-view?view=standard#2020-07-29)) at a summer school. 
 
